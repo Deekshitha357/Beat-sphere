@@ -7,4 +7,4 @@ Our Github repositry link:
 https://github.com/Deekshitha357/Beat-sphere  
 
 
-In The beatsphere folder, login is the first page
+In The beatsphere folder, loginn.html is the first page
